@@ -1,5 +1,5 @@
 # awesome-repo-list
-a list of UoM related repo
+a list of UoM-related repo
 
 + [UnimelbSharedFiles](https://github.com/yxliang01/UnimelbSharedFiles)
 + [Unimelb-WAM-Checker](https://github.com/yxliang01/Unimelb-WAM-Checker)
